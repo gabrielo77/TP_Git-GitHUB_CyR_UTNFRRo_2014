@@ -1,0 +1,8 @@
+TODO list:
+
+* Revisar traducciones.
+* Agregar índice por tema al principio.
+* Agregar carátula con integrantes y tema.
+* Agregar números de página.
+* Seguir con el trabajo desde el capítulo 2 de Git PRO, llamado Git Basics, que versa sobre inicializar repositrio local, agregar archivos, etc.
+* Agregar anexos con links de interés, manual de instalación en las distintas plataformas, etc. (si llegamos)
