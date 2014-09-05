@@ -1,0 +1,16 @@
+A las diapostivas organizarlas asi:
+
+portada
+
+historia
+    |- sistemas distribuidos
+    |- ventajas de git
+    |- etc.
+
+conceptos básicos asi como está en el documento
+
+branches (usar las imágenes que estan en el repositorio)
+
+LISTAR los comandos que estan en el documento. Solo listarlos, en 2 o 3 diapostivas.
+
+Saludos y gracias y esas cosas.
